@@ -1,0 +1,18 @@
+out_1.txt Saved
+Price information as of : 2024-03-05T09:35:44.458334
+
+out_1.txt Saved
+Price information as of : 2024-03-05T09:36:14.164787
+
+out_1.txt Saved
+Price information as of : 2024-03-05T09:36:40.955341
+
+In , Found [0]
+out_1.txt Saved
+Price information as of : 2024-03-05T09:37:08.744717
+
+In , Found [0]
+out_1.txt Saved
+Price information as of : 2024-03-05T09:38:53.223322
+
+In , Found [0]
