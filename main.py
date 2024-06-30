@@ -1,7 +1,3 @@
-# Amanjot Singh Sandhu
-# ICA04
-#1232_2850_A04
-
 import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
